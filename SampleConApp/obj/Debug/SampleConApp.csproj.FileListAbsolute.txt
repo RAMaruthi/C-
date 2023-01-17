@@ -1,0 +1,7 @@
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SampleConApp\bin\Debug\SampleConApp.exe.config
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SampleConApp\bin\Debug\SampleConApp.exe
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SampleConApp\bin\Debug\SampleConApp.pdb
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SampleConApp\obj\Debug\SampleConApp.csprojAssemblyReference.cache
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SampleConApp\obj\Debug\SampleConApp.csproj.CoreCompileInputs.cache
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SampleConApp\obj\Debug\SampleConApp.exe
+D:\starmark Maruthi\.NET trainig\Complete.NET Trainig\SampleConApp\obj\Debug\SampleConApp.pdb
